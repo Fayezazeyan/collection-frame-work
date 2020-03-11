@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-class CustomColList{
+class CustomCollectionList{
     public static void main(String args[]){
 		Scanner input=new Scanner(System.in);
 		ArrayList<String> list=new ArrayList<String>(10);
